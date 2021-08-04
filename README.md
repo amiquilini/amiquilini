@@ -1,16 +1,30 @@
-# github-profile-summary-cards-example
+#### Hi! 👋 My name is Amanda and I'm a developer intern @ IBM
+About me: I have an M.Sc in Chemistry and I'm currently a Computer Systems Technology (CST) undergrad.
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+What you'll find here: My repos include projects and codes from my CST program and some other projects I'm working on to improve my skills.
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+I'm currently learning:
+- C#
+- .NET
+- Python
+- Java
+- SQL
 
-```To create your profile README you need to name the repo as your username```
+I'm currently having fun with:
+- General problem solving;
+- Coding projects;
+- Computational Biology (bc yeah, science!);
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
+You can reach me at [LinkedIn](https://www.linkedin.com/in/amandamiquilini/) or by <a href="mailto:amiquilini@id.uff.br?subject=Github%20Contact">E-mail</a>
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amiquilini/amiquilini/master/profile-summary-card-output/nord_dark/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/amiquilini/amiquilini/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/amiquilini/amiquilini/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" />
+</p>
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!--
+[![](https://raw.githubusercontent.com/amiquilini/amiquilini/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/amiquilini/amiquilini/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/amiquilini/amiquilini/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+-->
