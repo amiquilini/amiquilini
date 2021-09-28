@@ -1,4 +1,4 @@
-#### Hi! 👋 My name is Amanda and I'm a developer intern @ IBM
+#### Hi! 👋 My name is Amanda and I'm a developer @ IBM
 About me: I have an M.Sc in Chemistry and I'm currently a Computer Systems Technology (CST) undergrad.
 
 What you'll find here: My repos include projects and codes from my CST program and some other projects I'm working on to improve my skills.
