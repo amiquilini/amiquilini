@@ -1,7 +1,7 @@
-## Hi! 👋 My name is Amanda and I'm a back-end developer @ IBM
+## Hi! 👋 I'm Amanda, a backend developer with a passion for learning new things
 
 ### About me: 
-I have an M.Sc in Chemistry (with lots of Computational Biology) and I'm currently a Computer Systems Technology (CST) undergrad.
+I'm a backend developer with experience in .NET and AWS (3x Certified!). I have an M.Sc in Chemistry (with lots of Computational Biology) and a Computer Systems Technology (CST) degree. When I'm not working and coding, I enjoy exercising, crafting, singing, and trying out new hobbies.
 
 ### What you'll find here: 
 My repos include projects and codes from my CST program and some other projects I'm working on to improve my skills.
