@@ -8,7 +8,7 @@ My repos include projects and codes from my CST program and some other projects 
 
 ### I'm currently learning: 
 - Systems Design
-- Agentic AI
+- AI Agents
 
 </br>
 
