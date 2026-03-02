@@ -13,8 +13,7 @@ My repos include projects and codes from my CST program and some other projects 
 </br>
 
 ### &#x1f4c8; GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiquilini&layout=compact&theme=tokyonight&count_private=true)](https://github.com/amiquilini/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiquilini&layout=compact&theme=tokyonight)](https://github.com/amiquilini/github-readme-stats)
 
 </br>
 
