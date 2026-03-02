@@ -7,16 +7,8 @@ I'm a backend developer with experience in .NET and AWS (3x Certified!). I have 
 My repos include projects and codes from my CST program and some other projects I'm working on to improve my skills.
 
 ### I'm currently learning: 
-- **.NET (C#)**
-- **Cloud Development (AWS)**
-- Python
-- Java
-- Angular
-
-### I'm currently having fun with:
-- General problem solving
-- Coding projects
-- Random web apps
+- Systems Design
+- Agentic AI
 
 </br>
 
