@@ -10,6 +10,10 @@ My repos include projects and codes from my CST program and some other projects 
 - Systems Design
 - AI Agents
 
+### I'm currently working on:
+- Developer toolkits
+- Reworking my portfolio
+
 </br>
 
 ### &#x1f4c8; GitHub Stats
